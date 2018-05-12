@@ -1,0 +1,28 @@
+_repo: The-Portland-Peerage-Romance_14371
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Archard, Charles J.
+    gutenberg_agent_id: '5494'
+    url: http://www.gutenberg.org/2009/agents/5494
+description: ''
+gutenberg_issued: '2004-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14371'
+  lccn: '2007408279'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portland, William John Cavendish-Scott-Bentinck, Duke of, 1800-1879'
+- !lcsh 'Great Britain -- Biography'
+- !lcc 'DA'
+- !lcsh 'Nobility -- Great Britain -- Biography'
+- !lcsh 'Bentinck family'
+title: The Portland Peerage Romance
+url: http://www.gutenberg.org/ebooks/14371
